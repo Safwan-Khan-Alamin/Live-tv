@@ -5,7 +5,7 @@ http://172.22.22.76:84/mz1002/video.m3u8
 #EXTINF:-1 tvg-id="SonySport1" tvg-name="Sony Sports1" tvg-logo="https://yt3.googleusercontent.com/2KpL4E7BBvDnywz0BLJXu0cMG_bqiXv6cMQ_dL4MNRTrQYIB6ydv8Tp1PnEvmx6Sg6d4yp7P=s160-c-k-c0x00ffffff-no-rj" group-title="Sports Channels",Sony Sports1
 http://172.22.22.76:84/mz1004/video.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://brand-websites-prod.s3.ap-south-1.amazonaws.com/sonysix-live/spnsportsindia/channel_logos/SONY_SportsTen2_HD.png" group-title="Indian Channels",Sony Sports2
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://yt3.googleusercontent.com/2KpL4E7BBvDnywz0BLJXu0cMG_bqiXv6cMQ_dL4MNRTrQYIB6ydv8Tp1PnEvmx6Sg6d4yp7P=s160-c-k-c0x00ffffff-no-rj" group-title="Indian Channels",Sony Sports2
 http://172.22.22.76:84/mz1006/video.m3u8
 
 #EXTINF:-1 tvg-id="SonySport5" tvg-name="Sony Sports5" tvg-logo="https://yt3.googleusercontent.com/2KpL4E7BBvDnywz0BLJXu0cMG_bqiXv6cMQ_dL4MNRTrQYIB6ydv8Tp1PnEvmx6Sg6d4yp7P=s160-c-k-c0x00ffffff-no-rj" group-title="Sports Channels",Sony Sports5
