@@ -5,6 +5,9 @@ http://172.22.22.76:84/mz1002/video.m3u8
 #EXTINF:-1 tvg-id="SonySport1" tvg-name="Sony Sports1" tvg-logo="https://yt3.googleusercontent.com/2KpL4E7BBvDnywz0BLJXu0cMG_bqiXv6cMQ_dL4MNRTrQYIB6ydv8Tp1PnEvmx6Sg6d4yp7P=s160-c-k-c0x00ffffff-no-rj" group-title="Sports Channels",Sony Sports1
 http://172.22.22.76:84/mz1004/video.m3u8
 
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://brand-websites-prod.s3.ap-south-1.amazonaws.com/sonysix-live/spnsportsindia/channel_logos/SONY_SportsTen2_HD.png" group-title="Indian Channels",Sony Sports2
+http://172.22.22.76:84/mz1006/video.m3u8
+
 #EXTINF:-1 tvg-id="SonySport5" tvg-name="Sony Sports5" tvg-logo="https://yt3.googleusercontent.com/2KpL4E7BBvDnywz0BLJXu0cMG_bqiXv6cMQ_dL4MNRTrQYIB6ydv8Tp1PnEvmx6Sg6d4yp7P=s160-c-k-c0x00ffffff-no-rj" group-title="Sports Channels",Sony Sports5
 http://172.22.22.76:84/mz1005/video.m3u8
 
@@ -13,3 +16,10 @@ http://zflixbd.com:8083/live-5/index.m3u8?token=24b0a237035627395b5eb3bd628095d5
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://www.tsports.com/assets/images/Logo%20tsports.svg" group-title="Bangladeshi Channels", T Sports(Server-1)
 http://zflixbd.com:8083/TSportsHD/index.m3u8?token=c3de9b209cb6f481800f72e98c6a3ea9eff1764f-205596bbca3930b384e65f264f862951-1748286246-1748275446
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/ef/Star_Jalsha_logo_2023.png" group-title="Indian Channels",Star jalsha
+http://172.22.22.76:84/mz1008/video.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcTGORgrx1av6X-ZCUjvPmBsYpWUbse6XIff8SqN60QzrObTmYauqg3qWQuS_fIkGhn0LVWVr42p-Bqz_0aXpZrGAXWXIDQSomfLO-1HLw" group-title="Indian Channels",Zee Bangla
+http://172.22.22.76:84/mz1009/video.m3u8
+
