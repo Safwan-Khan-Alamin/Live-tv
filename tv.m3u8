@@ -11,5 +11,5 @@ http://172.22.22.76:84/mz1005/video.m3u8
 #EXTINF:-1 tvg-id="GTv" tvg-name="G TV" tvg-logo="https://upload.wikimedia.org/wikipedia/en/f/f1/Logo_of_GTV_%28Bangladesh%29.svg" group-title="Bangladeshi Channels",G TV
 http://zflixbd.com:8083/live-5/index.m3u8?token=24b0a237035627395b5eb3bd628095d570dd0203-58d79a40140a377d195b60caf4a68b50-1748286593-1748275793
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://www.tsports.com/assets/images/Logo%20tsports.svg" group-title="Bangladeshi Channels",T Sports(Server-1)
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://www.tsports.com/assets/images/Logo%20tsports.svg" group-title="Bangladeshi Channels", T Sports(Server-1)
 http://zflixbd.com:8083/TSportsHD/index.m3u8?token=c3de9b209cb6f481800f72e98c6a3ea9eff1764f-205596bbca3930b384e65f264f862951-1748286246-1748275446
