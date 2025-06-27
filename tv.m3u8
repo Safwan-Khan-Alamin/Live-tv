@@ -2,20 +2,5 @@
 #EXTINF:-1 tvg-id="NagorikTV" tvg-name="Nagorik TV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/T_Sports_logo.svg/1200px-T_Sports_logo.svg.png" group-title="Sports",T Sports
 http://172.17.50.112:84/ant1002/video.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcTHkQrxo-LSxuxRG3N4vgXBQrnGFIMX3YcTePsMuN7Rrwrx8mLSWfg0jRsK9mn5pjjOxgJ3ze_B97MM6oJZm0VBsBCaXBZxslAhp8AY0oU" group-title="Bangladeshi Channels",Jumuna TV
-https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1748464373/ei/lR43aNyLBsuI6dsP97C-wQY/ip/160.202.144.12/id/isrM9ybdc-w.1/source/yt_live_broadcast/requiressl/yes/xpc/EgVo2aDSNQ%3D%3D/tx/51437492/txs/51437492%2C51437493%2C51437494%2C51437495/hfr/1/maxh/4320/playlist_duration/30/manifest_duration/30/maudio/1/gcr/bd/siu/1/bui/AY1jyLOrhPHwHIc_9YedPetrepQXgmyKqlSXGzZfAgfZvRkfKY-NvBrkHcsnWmLKH_plChoY/spc/l3OVKb6hSVkh56OiOmE8eQrpj6ukxVV6IJ8ZN2u0sgUDgkTC6hpZ6xKsq5BdfYBbww/vprv/1/go/1/rqh/5/pacing/0/nvgoi/1/ncsapi/1/keepalive/yes/fexp/51355912/dover/11/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Cxpc%2Ctx%2Ctxs%2Chfr%2Cmaxh%2Cplaylist_duration%2Cmanifest_duration%2Cmaudio%2Cgcr%2Csiu%2Cbui%2Cspc%2Cvprv%2Cgo%2Crqh%2Citag%2Cplaylist_type/sig/AJfQdSswRQIhAIJOpXgnCJ2TcnBZpoIMm1UvfSKFL9265x1nuVFGGC5kAiByIGCNGi8goBvDe51VPJVxcY2GjVAjPpiNsK5n-vxjLQ%3D%3D/file/index.m3u8
-
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/ef/Star_Jalsha_logo_2023.png" group-title="Indian Channels",Star jalsha
-http://172.22.22.76:84/mz1008/video.m3u8
-
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcTGORgrx1av6X-ZCUjvPmBsYpWUbse6XIff8SqN60QzrObTmYauqg3qWQuS_fIkGhn0LVWVr42p-Bqz_0aXpZrGAXWXIDQSomfLO-1HLw" group-title="Indian Channels",Zee Bangla
-http://172.22.22.76:84/mz1009/video.m3u8
-
 #EXTINF:-1 tvg-id="Star Sport1" tvg-name="Star Sports1" tvg-logo="https://www.sportspro.com/wp-content/uploads/2023/03/Star-Sports.webp" group-title="Sports",Star Sports1
 http://172.17.50.112:84/ant1001/video.m3u8
-
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://yt3.googleusercontent.com/2KpL4E7BBvDnywz0BLJXu0cMG_bqiXv6cMQ_dL4MNRTrQYIB6ydv8Tp1PnEvmx6Sg6d4yp7P=s160-c-k-c0x00ffffff-no-rj" group-title="Indian Channels",Sony Sports2
-http://172.22.22.76:84/mz1006/video.m3u8
-
-#EXTINF:-1 tvg-id="SonySport5" tvg-name="Sony Sports5" tvg-logo="https://yt3.googleusercontent.com/2KpL4E7BBvDnywz0BLJXu0cMG_bqiXv6cMQ_dL4MNRTrQYIB6ydv8Tp1PnEvmx6Sg6d4yp7P=s160-c-k-c0x00ffffff-no-rj" group-title="Sports Channels",Sony Sports5
-http://172.22.22.76:84/mz1005/video.m3u8
