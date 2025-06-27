@@ -2,5 +2,5 @@
 #EXTINF:-1 tvg-id="NagorikTV" tvg-name="Nagorik TV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/T_Sports_logo.svg/1200px-T_Sports_logo.svg.png" group-title="Sports",T Sports
 http://172.17.50.112:84/ant1002/video.m3u8
 
-#EXTINF:-1 tvg-id="Star Sport1" tvg-name="Star Sports1" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/e/e8/STAR_Sports_1_logo.png/revision/latest?cb=20150719162710" group-title="Sports",Star Sports1
+
 http://172.17.50.112:84/ant1001/video.m3u8
