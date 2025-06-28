@@ -1,13 +1,25 @@
-#EXTM3U
-#EXTINF:-1 tvg-id="NagorikTV" tvg-name="Nagorik TV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/T_Sports_logo.svg/1200px-T_Sports_logo.svg.png" group-title="Sports",T Sports
+#EXTM3U 
+#EXTINF:-1 tvg-id="T Sports" tvg-name="T Sports" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/T_Sports_logo.svg/1200px-T_Sports_logo.svg.png" group-title="Sports",T Sports
 http://172.17.50.112:84/ant1002/video.m3u8
 
-#EXTINF:-1 tvg-id="Star Sports1" tvg-name="Star Sports1" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/c/cc/SS1HD.jpg/revision/latest?cb=20240313194654" group-title="Sports", Star Sports 1
+#EXTINF:-1 tvg-id="Star Sports1" tvg-name="Star Sports1" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/c/cc/SS1HD.jpg/revision/latest?cb=20240313194654" group-title="Sports", Star Sports 1 
 http://172.17.50.112:84/ant1001/video.m3u8
 
-#EXTINF:-1 tvg-id="Willow TV" tvg-name="Willow TV" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRx_6gFSq8faDErZvVQPPxWDdvgIpTYfMcVfYeTob3lkENASHs-P1_Z38Kp64OlH1pkP5I&usqp=CAU" group-title="Sports", Willow TV
-https://bdixtv24.live/CricHD/m3u8.php/willowusa.m3u8
+#EXTINF:-1 tvg-id="Willow TV" tvg-name="Willow TV" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRx_6gFSq8faDErZvVQPPxWDdvgIpTYfMcVfYeTob3lkENASHs-P1_Z38Kp64OlH1pkP5I&usqp=CAU" group-title="Sports", Willow TV https://bdixtv24.live/CricHD/m3u8.php/willowusa.m3u8
+
+#EXTINF:-1 tvg-id="Female3 HD" tvg-name="Female3 HDt" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQCSDPKTFQE6RFz7iQAg9KJw7O8gqy5TTT_9Q&s" group-title="Music",Female3 HD
+http://smartbp.xyz:8080/Khushi10606/nhj8DNa/99745
+
+#EXTINF:-1 tvg-id="Maasranga tv" tvg-name="Maasranga tv" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR6fF4NIBqXG9vE9PsctvXfmQD9KdTaTQrQxg&s" group-title="Entertainment",Maasranga tv
+https://tvsen5.aynaott.com/tK2BNvT68fHZ/tracks-v1a1/mono.ts.m3u8
+
+EXTINF:-1 tvg-id="G tv" tvg-name="G tv" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcShPprJ8pRHcugtEoyW4e_UGcQqRbdv3irLxQ&s" group-title="Entertainment",G tv
+https://tvsen5.aynaott.com/Ravc7gPCZpxk/tracks-v1a1/mono.ts.m3u8
+
+EXTINF:-1 tvg-id="Deepto TV" tvg-name="Deepto TV" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRKzXv10rcOswWhk6tP3kmRQCQKaXN8GBhomA&s" group-title="Entertainment",Deepto TV
+https://byphdgllyk.gpcdn.net/hls/deeptotv/0_1/index.m3u8
+
+#EXTINF:-1 tvg-id="T Sports" tvg-name="T Sports" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/T_Sports_logo.svg/1200px-T_Sports_logo.svg.png" group-title="Sports",T Sports(Server2)
+https://live.tsports.com/mobile_hls/tsports_live_1/playlist.m3u8
 
 
-#EXTINF:-1 tvg-id="Animal" tvg-name="Animals Planet" tvg-logo="" group-title="Information", Animals planet 
-http://smartbp.xyz:8080/Khushi10606/nhj8DNa/4249
