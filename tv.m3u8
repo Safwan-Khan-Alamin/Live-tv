@@ -7,9 +7,6 @@ http://172.17.50.112:84/ant1001/video.m3u8
 
 #EXTINF:-1 tvg-id="Willow TV" tvg-name="Willow TV" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRx_6gFSq8faDErZvVQPPxWDdvgIpTYfMcVfYeTob3lkENASHs-P1_Z38Kp64OlH1pkP5I&usqp=CAU" group-title="Sports", Willow TV https://bdixtv24.live/CricHD/m3u8.php/willowusa.m3u8
 
-#EXTINF:-1 tvg-id="Female3 HD" tvg-name="Female3 HDt" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQCSDPKTFQE6RFz7iQAg9KJw7O8gqy5TTT_9Q&s" group-title="Music",Female3 HD
-http://smartbp.xyz:8080/Khushi10606/nhj8DNa/99745
-
 #EXTINF:-1 tvg-id="Maasranga tv" tvg-name="Maasranga tv" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR6fF4NIBqXG9vE9PsctvXfmQD9KdTaTQrQxg&s" group-title="Entertainment",Maasranga tv
 https://tvsen5.aynaott.com/tK2BNvT68fHZ/tracks-v1a1/mono.ts.m3u8
 
@@ -34,7 +31,7 @@ http://103.73.106.86:3255/JAMUNATV/tracks-v1a1/mono.ts.m3u8
 #EXTINF:-1 tvg-id="SOMOY TV NEWS" tvg-name="SOMOY TV NEWS" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTdzJCwuU7RLipyGc75zrltZTpFrruPgnM4FQ&s" group-title="Entertainment",SOMOY TV NEWS
 http://103.73.106.86:3255/somyyt/tracks-v1a1/mono.ts.m3u8
 
-#EXTINF:-1 tvg-id="ZeeBangla" tvg-name="ZeeBangla" tvg-logo="http://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcR6oVlwXNk2Nt9vxrTfyDWBcS7o9FNunEgl2fM6TBEMj8ZsCoJVrt2W2Q8b3CICXjZSr3oQBb6lkbEDmcg_xyJ7lgZup9izCIV9l_iU8A" group-title="Indian bangla",ZeeBangla
+#EXTINF:-1 tvg-id="ZeeBangla" tvg-name="ZeeBangla" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/5f/Zee_Bangla_logo.png" group-title="Indian bangla",ZeeBangla
 http://103.73.106.86:3255/ZeeBangla/tracks-v1a1/mono.ts.m3u8
 
 #EXTINF:-1 tvg-id="SonyAath" tvg-name="SonyAath" tvg-logo="https://upload.wikimedia.org/wikipedia/en/d/d4/Sony_Aath_new.png" group-title="Indian bangla",SonyAath
