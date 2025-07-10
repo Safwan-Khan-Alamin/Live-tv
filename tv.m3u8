@@ -3,7 +3,7 @@
 http://172.17.50.112:84/ant1001/video.m3u8
 
 #EXTINF:-1 tvg-id="Star Sports1" tvg-name="Star Sports1" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/c/cc/SS1HD.jpg/revision/latest?cb=20240313194654" group-title="Sports", Star Sports 1 
-http://172.17.50.112:84/ant1002/video.m3u8
+http://103.73.107.122:3255/starthd1/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1 tvg-id="Willow TV" tvg-name="Willow TV" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRx_6gFSq8faDErZvVQPPxWDdvgIpTYfMcVfYeTob3lkENASHs-P1_Z38Kp64OlH1pkP5I&usqp=CAU" group-title="Sports", Willow TV https://bdixtv24.live/CricHD/m3u8.php/willowusa.m3u8
 
