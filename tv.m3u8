@@ -23,7 +23,7 @@ https://live.tsports.com/mobile_hls/tsports_live_1/playlist.m3u8
 http://103.73.107.122:3255/TSportsHD/index.m3u8
 
 #EXTINF:-1 tvg-id="T Sports" tvg-name="T Sports" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/T_Sports_logo.svg/1200px-T_Sports_logo.svg.png" group-title="Sports",T Sports (Server 4 token)
-http://172.16.172.114:8083/TSportsHD/index.m3u8?token=faa2ae8ebbacb2a03bc036789aa4bb5ee717e456-b8698dd79c7f7b6c87cb2ea881b1f6de-1753173080-1753162280
+http://172.16.172.114:8083/TSportsHD/index.m3u8?token=ae7c39acb868d6d9022f7628cbe5f8722c7d09b8-2b37fa21202322b680190317ad7d0395-1753173394-1753162594
 
 #EXTINF:-1 tvg-id="JAMUNATV" tvg-name="JAMUNATV" tvg-logo="http://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRF1ZaklDWQCsqSCkzEvLNG46S89Cd90Y5TIQ&s" group-title="Entertainment",JAMUNA TV
 http://103.73.106.86:3255/JAMUNATV/tracks-v1a1/mono.ts.m3u8
