@@ -23,8 +23,8 @@ http://172.16.172.115:3255/TSportsHD/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-id="T Sports" tvg-name="T Sports" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/T_Sports_logo.svg/1200px-T_Sports_logo.svg.png" group-title="Sports",T Sports (Server 3)
 http://103.73.107.122:3255/TSportsHD/index.m3u8
 
-#EXTINF:-1 tvg-id="T Sports" tvg-name="T Sports" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/T_Sports_logo.svg/1200px-T_Sports_logo.svg.png" group-title="Sports",T Sports (Server 4 token)
-http://172.16.172.114:8083/TSportsHD/tracks-v1a1/mono.m3u8?token=a8a58e7935410639181f6024c7ba2da6a05e2dd3-31138c1ec5695b954626aa494bc2bb23-1756529784-1756518984
+#EXTINF:-1 tvg-id="T Sports" tvg-name="T Sports" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/T_Sports_logo.svg/1200px-T_Sports_logo.svg.png" group-title="Sports",T Sports (Server 4 Token)
+http://172.16.172.114:8083/TSportsHD/index.m3u8?token=262afbcc609fa86c3653e9a648e96ccbd32833a0-a7da96815a941dfe1ff9cb455c71990f-1756540967-1756530167
 
 #EXTINF:-1 tvg-id="JAMUNATV" tvg-name="JAMUNATV" tvg-logo="http://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRF1ZaklDWQCsqSCkzEvLNG46S89Cd90Y5TIQ&s" group-title="Entertainment",JAMUNA TV
 http://172.16.172.115:3255/JAMUNATV/tracks-v1a1/mono.m3u8
