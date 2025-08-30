@@ -3,18 +3,19 @@
 http://172.17.50.112:84/ant1001/video.m3u8
 
 #EXTINF:-1 tvg-id="Star Sports1" tvg-name="Star Sports1" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/c/cc/SS1HD.jpg/revision/latest?cb=20240313194654" group-title="Sports", Star Sports 1 
-http://103.73.107.122:3255/starthd1/tracks-v1a1/mono.m3u8
+http://172.16.172.115:3255/starthd1/tracks-a1/mono.m3u8
 
-#EXTINF:-1 tvg-id="Willow TV" tvg-name="Willow TV" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRx_6gFSq8faDErZvVQPPxWDdvgIpTYfMcVfYeTob3lkENASHs-P1_Z38Kp64OlH1pkP5I&usqp=CAU" group-title="Sports", Willow TV https://bdixtv24.live/CricHD/m3u8.php/willowusa.m3u8
+#EXTINF:-1 tvg-id="Willow TV" tvg-name="Willow TV" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRx_6gFSq8faDErZvVQPPxWDdvgIpTYfMcVfYeTob3lkENASHs-P1_Z38Kp64OlH1pkP5I&usqp=CAU" group-title="Sports", Willow TV 
+http://172.16.172.115:3255/willow/index.m3u8
 
 #EXTINF:-1 tvg-id="Maasranga tv" tvg-name="Maasranga tv" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR6fF4NIBqXG9vE9PsctvXfmQD9KdTaTQrQxg&s" group-title="Entertainment",Maasranga tv
 https://tvsen5.aynaott.com/tK2BNvT68fHZ/tracks-v1a1/mono.ts.m3u8
 
 #EXTINF:-1 tvg-id="G tv" tvg-name="G tv" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcShPprJ8pRHcugtEoyW4e_UGcQqRbdv3irLxQ&s" group-title="Entertainment",G tv
-https://tvsen5.aynaott.com/Ravc7gPCZpxk/tracks-v1a1/mono.ts.m3u8
+http://172.16.172.115:3255/gtv/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1 tvg-id="Deepto TV" tvg-name="Deepto TV" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRKzXv10rcOswWhk6tP3kmRQCQKaXN8GBhomA&s" group-title="Entertainment",Deepto TV
-https://byphdgllyk.gpcdn.net/hls/deeptotv/0_1/index.m3u8
+http://172.16.172.115:3255/deeptho_nk/index.m3u8
 
 #EXTINF:-1 tvg-id="T Sports" tvg-name="T Sports" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/T_Sports_logo.svg/1200px-T_Sports_logo.svg.png" group-title="Sports",T Sports(Server2)
 http://172.16.172.115:3255/TSportsHD/tracks-v1a1/mono.m3u8
@@ -26,34 +27,34 @@ http://103.73.107.122:3255/TSportsHD/index.m3u8
 http://172.16.172.114:8083/TSportsHD/tracks-v1a1/mono.m3u8?token=a8a58e7935410639181f6024c7ba2da6a05e2dd3-31138c1ec5695b954626aa494bc2bb23-1756529784-1756518984
 
 #EXTINF:-1 tvg-id="JAMUNATV" tvg-name="JAMUNATV" tvg-logo="http://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRF1ZaklDWQCsqSCkzEvLNG46S89Cd90Y5TIQ&s" group-title="Entertainment",JAMUNA TV
-http://103.73.106.86:3255/JAMUNATV/tracks-v1a1/mono.ts.m3u8
+http://172.16.172.115:3255/JAMUNATV/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1 tvg-id="SOMOY TV NEWS" tvg-name="SOMOY TV NEWS" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTdzJCwuU7RLipyGc75zrltZTpFrruPgnM4FQ&s" group-title="Entertainment",SOMOY TV NEWS
-http://103.73.106.86:3255/somyyt/tracks-v1a1/mono.ts.m3u8
+http://172.16.172.115:3255/somyyt/index.m3u8
 
 #EXTINF:-1 tvg-id="ZeeBangla" tvg-name="ZeeBangla" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/5f/Zee_Bangla_logo.png" group-title="Indian bangla",ZeeBangla
-http://103.73.106.86:3255/ZeeBangla/tracks-v1a1/mono.ts.m3u8
+http://172.17.50.112:84/ant1010/video.m3u8
 
 #EXTINF:-1 tvg-id="SonyAath" tvg-name="SonyAath" tvg-logo="https://upload.wikimedia.org/wikipedia/en/d/d4/Sony_Aath_new.png" group-title="Indian bangla",SonyAath
-http://103.73.106.86:3255/SonyAath/tracks-v1a1/mono.ts.m3u8
+http://172.16.172.115:3255/SonyAath/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1 tvg-id="Discovery" tvg-name="Discovery" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRROuFuD6H8t7PdNMgsQ_ykLnMFFglvQd6mRegKSTmKdV4YlyX35qH6tggInrK3asBCKgU&usqp=CAU" group-title="Info",Discovery
-http://103.73.106.86:3255/Discovery/tracks-v1a1/mono.ts.m3u8
+http://172.16.172.115:3255/Discovery/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1 tvg-id="AnimalPlanetHD" tvg-name="AnimalPlanetHD" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSbpt3jTfoO0PI1B9bKLo5TFrPsROqKk0YU1g&s" group-title="Info",AnimalPlanetHD
-http://103.73.106.86:3255/AnimalPlanetHD/tracks-v1a1/mono.ts.m3u8
+http://172.16.172.115:3255/AnimalPlanetHD/index.m3u8
 
 #EXTINF:-1 tvg-id="TLCHD" tvg-name="TLCHD" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTaVKEwjXAKg7DQZFWbTP8U2al_KPfA5T0iIA&s" group-title="Info",TLCHD
-http://103.73.106.86:3255/TLCHD/tracks-v1a1/mono.ts.m3u8
+http://172.16.172.115:3255/TLCHD/index.m3u8
 
 #EXTINF:-1 tvg-id="CartoonNetwork" tvg-name="CartoonNetwork" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTeaqf8Dt5MqtNMfurddu78SOkgvsjjcc6MGA&s" group-title="Kids",CartoonNetwork
-http://103.73.106.86:3255/CartoonNetwork/tracks-v1a1/mono.ts.m3u8
+http://172.16.172.115:3255/CartoonNetwork/index.m3u8
 
 #EXTINF:-1 tvg-id="POGO" tvg-name="POGO" tvg-logo="https://yt3.googleusercontent.com/ytc/AIdro_mHnOf4LS2T4yeC5ru2K_NoAAMjXK6hW3bFKDCfvb1OzsM=s900-c-k-c0x00ffffff-no-rj" group-title="Kids",POGO
-http://103.73.106.86:3255/POGO/tracks-v1a1/mono.ts.m3u8
+http://172.16.172.115:3255/POGO/index.m3u8
 
 #EXTINF:-1 tvg-id="DiscoveryKids" tvg-name="DiscoveryKids" tvg-logo="http://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSZy_WXvLERKRAw2n828Ogy-2t3g7SkM3-BnQ&s" group-title="Kids",DiscoveryKids
-http://103.73.106.86:3255/DiscoveryKids/tracks-v1a1/mono.ts.m3u8
+http://172.16.172.115:3255/DiscoveryKids/index.m3u8
 
 #EXTINF:-1 tvg-id="Sony Ten1" tvg-name="Sony Ten1" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRhGuuCwgmUSobXADBRZ0yxgaTCCBKO1VA_Pw&s", Sony Ten1
-http://103.73.106.86:3255/SonyTenSports2/tracks-v1a1/mono.ts.m3u8
+http://172.16.172.115:3255/SonytenSports1HD/index.m3u8
