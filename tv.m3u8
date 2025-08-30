@@ -9,7 +9,7 @@ http://172.16.172.115:3255/starthd1/tracks-a1/mono.m3u8
 http://172.16.172.115:3255/willow/index.m3u8
 
 #EXTINF:-1 tvg-id="Maasranga tv" tvg-name="Maasranga tv" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR6fF4NIBqXG9vE9PsctvXfmQD9KdTaTQrQxg&s" group-title="Entertainment",Maasranga tv
-https://tvsen5.aynaott.com/tK2BNvT68fHZ/tracks-v1a1/mono.ts.m3u8
+http://172.16.172.114:8083/Maasranga/tracks-v1a1/mono.m3u8?token=8e454e61bdead062be5a378c14278cd9b55cd448-7a339faef8188e23e92a0ee57560e928-1756535034-1756524234
 
 #EXTINF:-1 tvg-id="G tv" tvg-name="G tv" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcShPprJ8pRHcugtEoyW4e_UGcQqRbdv3irLxQ&s" group-title="Entertainment",G tv
 http://172.16.172.115:3255/gtv/tracks-v1a1/mono.m3u8
