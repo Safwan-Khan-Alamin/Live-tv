@@ -58,3 +58,7 @@ http://172.16.172.115:3255/DiscoveryKids/index.m3u8
 
 #EXTINF:-1 tvg-id="Sony Ten1" tvg-name="Sony Ten1" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRhGuuCwgmUSobXADBRZ0yxgaTCCBKO1VA_Pw&s", Sony Ten1
 http://172.16.172.115:3255/SonytenSports1HD/index.m3u8
+
+#EXTINF:-1 tvg-id="Tampmad" tvg-name="Tampmad" tvg-logo="https://play-lh.googleusercontent.com/1jf_4jw2XqSdnvrVUVcxk4UCUAMfP-LjBYUXqj-nXxw6KlCnAqsFmudjQE1BJwQ52ow=w416-h235-rw", Tampmad (Special)
+https://saseries.akamaized.net/hls/live/2110097/tappak/master.m3u8?hdnts=exp=1756905602~acl=/hls/*~hmac=e771bf75dc8c9b8f8434753761984ecd48024d84ae7e8fca1fce67b1aea24235
+
