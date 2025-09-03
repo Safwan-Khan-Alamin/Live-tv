@@ -60,5 +60,4 @@ http://172.16.172.115:3255/DiscoveryKids/index.m3u8
 http://172.16.172.115:3255/SonytenSports1HD/index.m3u8
 
 #EXTINF:-1 tvg-id="Tampmad" tvg-name="Tampmad" tvg-logo="https://play-lh.googleusercontent.com/1jf_4jw2XqSdnvrVUVcxk4UCUAMfP-LjBYUXqj-nXxw6KlCnAqsFmudjQE1BJwQ52ow=w416-h235-rw", Tampmad
-https://saseries.akamaized.net/hls/live/2110097/tappak/hdntl=exp=1756994108~acl=%2f*~data=hdntl~hmac=d1e85fcd5e0dc3fe201d21aec01c249fe1448f0859e11507a3336acdcf971db4/level_3.m3u8
-
+https://saseries.akamaized.net/hls/live/2110097/tappak/master.m3u8?hdnts=exp=1756909202~acl=/hls/*~hmac=17b72f6995f6957cfc71d732c7516fba1d1fbc996594aec8d79074686f366292
