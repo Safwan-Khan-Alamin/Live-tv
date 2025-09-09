@@ -6,7 +6,7 @@ http://172.17.50.112:84/ant1001/video.m3u8
 http://172.16.172.115:3255/starthd1/tracks-a1/mono.m3u8
 
 #EXTINF:-1 tvg-id="Willow TV" tvg-name="Willow TV" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRx_6gFSq8faDErZvVQPPxWDdvgIpTYfMcVfYeTob3lkENASHs-P1_Z38Kp64OlH1pkP5I&usqp=CAU" group-title="Sports", Willow TV 
-http://172.16.172.115:3255/willow/index.m3u8
+https://d4.merichunidya.com:1686/hls/willowusa.m3u8?md5=oKUTJ4EfX_wdS76uDIdPIA&expires=1757432546
 
 #EXTINF:-1 tvg-id="Maasranga tv" tvg-name="Maasranga tv" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR6fF4NIBqXG9vE9PsctvXfmQD9KdTaTQrQxg&s" group-title="Entertainment",Maasranga tv
 http://172.16.172.114:8083/Maasranga/tracks-v1a1/mono.m3u8?token=8e454e61bdead062be5a378c14278cd9b55cd448-7a339faef8188e23e92a0ee57560e928-1756535034-1756524234
