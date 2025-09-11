@@ -57,7 +57,7 @@ http://172.16.172.115:3255/POGO/index.m3u8
 http://172.16.172.115:3255/DiscoveryKids/index.m3u8
 
 #EXTINF:-1 tvg-id="Sony Ten1" tvg-name="Sony Ten1" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRhGuuCwgmUSobXADBRZ0yxgaTCCBKO1VA_Pw&s", Sony Ten1
-http://172.16.172.115:3255/SonytenSports1HD/index.m3u8
+https://premierleageplnew2.akamaized.net/hls/live/2107109/tapmadenc-1/master.m3u8?hdnts=exp=1757606103~acl=/hls/*~hmac=d5b2b642f1e8a48a87edb72d5725b46d0685646b0816c79df643527b041f90c3
 
 #EXTINF:-1 tvg-id="Tapmad" tvg-name="" tvg-logo="https://play-lh.googleusercontent.com/1jf_4jw2XqSdnvrVUVcxk4UCUAMfP-LjBYUXqj-nXxw6KlCnAqsFmudjQE1BJwQ52ow=w416-h235-rw",Tapmad
 https://vodnewv2.in-maa-1.linodeobjects.com/promos/Tapmadpromo/v5/prog_index.m3u8
