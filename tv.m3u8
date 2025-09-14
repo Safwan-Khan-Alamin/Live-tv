@@ -57,7 +57,7 @@ http://172.16.172.115:3255/POGO/index.m3u8
 http://172.16.172.115:3255/DiscoveryKids/index.m3u8
 
 #EXTINF:-1 tvg-id="Sony Ten1" tvg-name="Sony Ten1" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRhGuuCwgmUSobXADBRZ0yxgaTCCBKO1VA_Pw&s", Sony Ten 
-http://e29c8e6890701c0b4-1757591271-17575804719bdbf1b826104d3a61190701c0b4-1757591271-17575804719bdbf1b826104d3a61190701c0b4-1757591271-1757580471
+http://172.17.50.112:84/ant1002/video.m3u8
 
 #EXTINF:-1 tvg-id="Tapmad" tvg-name="" tvg-logo="https://play-lh.googleusercontent.com/1jf_4jw2XqSdnvrVUVcxk4UCUAMfP-LjBYUXqj-nXxw6KlCnAqsFmudjQE1BJwQ52ow=w416-h235-rw",Tapmad
 https://premierleageplnew2.akamaized.net/hls/live/2107109/tapmadenc-1/master.m3u8?hdnts=exp=1757607144~acl=/hls/*~hmac=2f3d63ef86b19be2f1ad5cfc4acd1df6994573bc657234dc55c904d09d206d13
