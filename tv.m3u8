@@ -24,7 +24,7 @@ http://172.16.172.115:3255/TSportsHD/tracks-v1a1/mono.m3u8
 http://103.73.107.122:3255/TSportsHD/index.m3u8
 
 #EXTINF:-1 tvg-id="T Sports" tvg-name="T Sports" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/T_Sports_logo.svg/1200px-T_Sports_logo.svg.png" group-title="Sports",T Sports (Server 4 Token)
-http://172.16.172.115:3255/bein1-sporty/tracks-v1a1/mono.m3u8
+https://tvsen1.aynaott.com/YNMn5kZz8aLm/index.m3u8
 
 #EXTINF:-1 tvg-id="JAMUNATV" tvg-name="JAMUNATV" tvg-logo="http://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRF1ZaklDWQCsqSCkzEvLNG46S89Cd90Y5TIQ&s" group-title="Entertainment",JAMUNA TV
 http://172.16.172.115:3255/JAMUNATV/tracks-v1a1/mono.m3u8
@@ -60,4 +60,4 @@ http://172.16.172.115:3255/DiscoveryKids/index.m3u8
 http://172.17.50.112:84/ant1002/video.m3u8
 
 #EXTINF:-1 tvg-id="Tapmad" tvg-name="" tvg-logo="https://play-lh.googleusercontent.com/1jf_4jw2XqSdnvrVUVcxk4UCUAMfP-LjBYUXqj-nXxw6KlCnAqsFmudjQE1BJwQ52ow=w416-h235-rw",Tapmad
-https://premierleageplnew2.akamaized.net/hls/live/2107109/tapmadenc-1/master.m3u8?hdnts=exp=1757607144~acl=/hls/*~hmac=2f3d63ef86b19be2f1ad5cfc4acd1df6994573bc657234dc55c904d09d206d13
+https://bd-mc-fdlive.fancode.com/mumbai/138919_english_hls_cae7f611bc34506_1ta-di_h264/index.m3u8
