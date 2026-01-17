@@ -60,4 +60,4 @@ http://172.16.172.115:3255/DiscoveryKids/index.m3u8
 http://172.17.50.112:84/ant1002/video.m3u8
 
 #EXTINF:-1 tvg-id="Tapmad" tvg-name="" tvg-logo="https://play-lh.googleusercontent.com/1jf_4jw2XqSdnvrVUVcxk4UCUAMfP-LjBYUXqj-nXxw6KlCnAqsFmudjQE1BJwQ52ow=w416-h235-rw",Tapmad
-https://bd-mc-fdlive.fancode.com/mumbai/138919_english_hls_cae7f611bc34506_1ta-di_h264/index.m3u8
+http://172.16.172.114:8083/Feedget/sportzfy1/index.m3u8?token=7be36391aecf5c16448f2e7db26cb3834d7cd586-0211d88103d79e9b7d95a7da043969cd-1768639147-1768628347
