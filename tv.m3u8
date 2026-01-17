@@ -60,4 +60,4 @@ http://172.16.172.115:3255/DiscoveryKids/index.m3u8
 http://172.17.50.112:84/ant1002/video.m3u8
 
 #EXTINF:-1 tvg-id="Tapmad" tvg-name="" tvg-logo="https://play-lh.googleusercontent.com/1jf_4jw2XqSdnvrVUVcxk4UCUAMfP-LjBYUXqj-nXxw6KlCnAqsFmudjQE1BJwQ52ow=w416-h235-rw",Tapmad
-http://172.16.172.114:8083/Feedget/sportzfy1/index.m3u8?token=7be36391aecf5c16448f2e7db26cb3834d7cd586-0211d88103d79e9b7d95a7da043969cd-1768639147-1768628347
+http://172.16.172.114:8083/StarSportsSelect2/tracks-v1a1/mono.m3u8?token=52ba8eacebe1275874de427501219b6ac52ccf03-66af28a8347269b2ec36cda1a52e44a7-1768640333-1768629533
