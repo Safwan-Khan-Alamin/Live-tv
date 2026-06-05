@@ -24,7 +24,7 @@ http://172.16.172.115:3255/TSportsHD/tracks-v1a1/mono.m3u8
 http://103.73.107.122:3255/TSportsHD/index.m3u8
 
 #EXTINF:-1 tvg-id="T Sports" tvg-name="T Sports" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/T_Sports_logo.svg/1200px-T_Sports_logo.svg.png" group-title="Sports",T Sports (Server 4 Token)
-https://tvsen1.aynaott.com/YNMn5kZz8aLm/index.m3u8
+http://172.16.172.114:8083/TSportsHD/tracks-v1a1/mono.m3u8?token=36a85090ac3037734ac9e35fe6eec26cac97e466-a6e3093400e39008b10c3bb224f7f610-1780649846-1780639046
 
 #EXTINF:-1 tvg-id="JAMUNATV" tvg-name="JAMUNATV" tvg-logo="http://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRF1ZaklDWQCsqSCkzEvLNG46S89Cd90Y5TIQ&s" group-title="Entertainment",JAMUNA TV
 http://172.16.172.115:3255/JAMUNATV/tracks-v1a1/mono.m3u8
