@@ -1,6 +1,6 @@
 #EXTM3U 
 #EXTINF:-1 tvg-id="T Sports" tvg-name="T Sports" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/T_Sports_logo.svg/1200px-T_Sports_logo.svg.png" group-title="Sports",T Sports
-http://172.17.50.112:84/ant1005/video.m3u8
+http://18.18.18.2/ch8/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1 tvg-id="Star Sports1" tvg-name="Star Sports1" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/c/cc/SS1HD.jpg/revision/latest?cb=20240313194654" group-title="Sports", Star Sports 1 
 http://172.16.172.115:3255/starthd1/tracks-a1/mono.m3u8
@@ -18,13 +18,13 @@ http://172.16.172.115:3255/gtv/tracks-v1a1/mono.m3u8
 http://172.16.172.115:3255/deeptho_nk/index.m3u8
 
 #EXTINF:-1 tvg-id="T Sports" tvg-name="T Sports" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/T_Sports_logo.svg/1200px-T_Sports_logo.svg.png" group-title="Sports",T Sports(Server2)
-http://172.16.172.115:3255/TSportsHD/tracks-v1a1/mono.m3u8
+http://srv1.zimtv.top:8089/10004/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1 tvg-id="T Sports" tvg-name="T Sports" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/T_Sports_logo.svg/1200px-T_Sports_logo.svg.png" group-title="Sports",T Sports (Server 3)
 https://tvsen7.aynaott.com/tsports-hd/tracks-v1a1/mono.ts.m3u8
 
 #EXTINF:-1 tvg-id="T Sports" tvg-name="T Sports" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/T_Sports_logo.svg/1200px-T_Sports_logo.svg.png" group-title="Sports",T Sports (Server 4)
-http://103.158.133.62:8080/live/index.m3u8
+http://103.158.133.62:8080/live/index.m3u8 
 
 #EXTINF:-1 tvg-id="JAMUNATV" tvg-name="JAMUNATV" tvg-logo="http://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRF1ZaklDWQCsqSCkzEvLNG46S89Cd90Y5TIQ&s" group-title="Entertainment",JAMUNA TV
 http://172.16.172.115:3255/JAMUNATV/tracks-v1a1/mono.m3u8
